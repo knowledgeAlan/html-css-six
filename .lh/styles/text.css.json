@@ -1,0 +1,18 @@
+{
+    "sourceFile": "styles/text.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1709205707169,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1709205707169,
+            "name": "Commit-0",
+            "content": "p{\n    font-family: Arial;\n    margin-top: 0;\n    margin-bottom: 0;   \n}\n\n.video-stats{\n    font-size: 14px;\n    color: rgb(96, 96, 96);\n    margin-bottom: 20px;   \n    background-color: yellow;\n}\n\n.video-title {\n    font-weight: bold;\n    font-size: 18px;\n    width: 280px;\n    line-height: 24px;\n    margin-bottom: 5px ;\n\n    background-color: red;\n}\n\n.video-author {\n    font-size: 18px;\n    color: rgb(96, 96, 96);\n    margin-bottom: 20px ;\n    background-color: green;\n}\n\n.video-description {\n    font-size: 14px;\n    color: rgb(96, 96, 96);\n    width: 280px;\n    line-height: 22px;\n    margin-bottom: 100px;\n    background-color: red;\n}\n\n\n.apple-text {\n    margin-bottom: 50px;\n    font-size: 14px;\n    background-color: rgb(227, 65, 64);\n    color: white;\n    text-align: center;\n    padding-top: 18px;\n    padding-bottom: 18px;\n}\n\n\n.span-example {\n    color:red;\n}\n\n.span-example:hover{\n    text-decoration: underline;\n}\n\n.shop-link {\n    cursor: pointer;\n}\n\n.shop-link:hover{\n    text-decoration: underline;\n}"
+        }
+    ]
+}

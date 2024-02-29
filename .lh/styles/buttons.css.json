@@ -1,0 +1,18 @@
+{
+    "sourceFile": "styles/buttons.css",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1709205169579,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1709205169579,
+            "name": "Commit-0",
+            "content": ".subscribe-button{\n    background-color: rgb(200, 0, 0);\n    color: white;\n    border: none;\n    height: 36px;\n    width: 105px;\n    border-radius: 2px;\n    cursor: pointer;\n    margin-right: 8px;\n    margin-left: 20px;\n    padding-top: 10px ;\n    padding-bottom: 10px;\n    padding-left: 16px;\n    padding-right: 16px;\n\n    transition: opacity 0.15s;\n    vertical-align: top;\n   \n}\n\n.subscribe-button:hover{\nopacity: 0.8;\n}\n\n.subscribe-button:active{\n opacity: 0.5;\n}\n\n\n\n.join-button{\nbackground-color: white;\nborder-color: rgb(41, 118, 211);\nborder-style: solid;\nborder-width: 1px;\ncolor: rgb(41, 118, 211);\n\n\nborder-radius: 2px;\ncursor: pointer;\n\npadding-top: 9px;\npadding-bottom: 9px;\n\npadding-left: 16px;\npadding-right: 16px;\n\ntransition: background-color 0.15s, color 0.15s;\n}\n\n\n.join-button:hover{\nbackground-color: rgb(6,95, 212);\ncolor: white;\n} \n\n\n.join-button:active{\nopacity: 0.7;\n} \n\n\n\n.tweet-button{\nbackground-color: rgb(29, 155, 240);\ncolor: white;\nborder: none;\n\npadding-top: 10px;\npadding-bottom: 10px;\npadding-left: 16px;\npadding-right: 16px;\n\nborder-radius:8px ;\nborder-radius: 18px;\nfont-weight: bold;\nfont-size:  15px;\ncursor: pointer;\nmargin-left: 8px;\n\ntransition: box-shodow 0.15s;\nvertical-align: top;\n}\n\n.tweet-button:hover{\n box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);\n}"
+        }
+    ]
+}
